@@ -1,8 +1,3 @@
-/*
- * Copyright (c) 2024 Intel Corporation
- *
- * SPDX-License-Identifier: Apache-2.0
- */
 
 #ifndef VLM_INFERENCE_H_
 #define VLM_INFERENCE_H_
